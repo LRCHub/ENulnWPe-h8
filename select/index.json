@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "容姿端麗な嘘",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-03-12T23:14:50.511328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "容姿端麗な嘘",
+      "artist": "The Oral Cigarettes",
+      "has_synced": true,
+      "path": "select/01_容姿端麗な嘘_The_Oral_Cigarettes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "容姿端麗な嘘 - Youshi Tanrei Na Uso",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_容姿端麗な嘘_-_Youshi_Tanrei_Na_Uso_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "容姿端麗な嘘",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_容姿端麗な嘘_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
